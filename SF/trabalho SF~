@@ -1,0 +1,3 @@
+Implementação small step:
+Arquivos necessários: Interpretador small step + Biblioteca estado;
+Objetivo completar a semantica e adicionar o tratamento de execessão ( Throw + Try Catch + exemplos de uso)
